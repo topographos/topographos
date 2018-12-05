@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Michal"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#914646"
+primary_light = "#914646"
+primary_dark = "#914646"
+
+# Menu
+menu_primary = "#6c8b8d"
+menu_text = "rgb(224, 214, 193)"
+menu_text_active = "#914646"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
