@@ -15,5 +15,5 @@ blogdown::serve_site()
 #hugo new --kind publication publication/<my-publication>
 #hugo new --kind ../publication publication/XYZ/index.md
 #hugo new --kind ../publication publication/<mypublication>
-
+ 
 devtools::install_github("rstudio/radix")
