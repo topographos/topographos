@@ -9,7 +9,8 @@ blogdown::serve_site()
 #hugo new  --kind talk talk/my-talk-name
 
 #create project
-#hugo new  --kind project project/my-project-name
+hugo new  --kind project project/dispersal
+hugo new  --kind project project/my-project-name
 
 #create publications
 #hugo new --kind publication publication/<my-publication>
