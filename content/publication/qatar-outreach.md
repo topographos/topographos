@@ -21,7 +21,7 @@ publication = "In *Proceedings of 20th International Conference on Cultural Heri
 publication_short = "In *CHNT 20*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Abstract: The Origins of Doha project explores the foundation and the historic growth of Doha, its transformation into a modern city, and the lives and experiences of its people through a combination of archaeological investigation, historical research and oral testimony. This project employs a variety of outreach strategies, including re-photography, social media, and multimedia-enhanced, online GIS to raise awareness about the increasingly threatened urban heritage beneath the modern landscape. These strategies address the challenges of conducting archaeological outreach amongst a rapidly changing and diverse population with widely varying perceptions of heritage. In this paper we discuss digital archaeology, outreach and contested heritage from the first urban excavations in the Arabian Gulf, with an emphasis on pragmatic, modular, and adaptable strategies for meaningful, multivalent archaeological interpretation. "
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -55,5 +55,3 @@ image = ""
 caption = ""
 
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.

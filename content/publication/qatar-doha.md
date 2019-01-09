@@ -21,7 +21,7 @@ publication = "In *Proceedings of the 44th Annual Conference on Computer Applica
 publication_short = "In *CAA*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "The Origins of Doha is a research project that aims to explore the foundation and historic growth of Doha, Qatar through a combination of archaeological investigation, historical research and oral testimony. As part of the digital public outreach for the project, Doha Online Historical Atlas (DOHA) was created to disseminate dispersed cultural heritage data. DOHA was developed adhering to Open Standards and using Open Source Software. This paper outlines the application design, architecture and implementation, which has been unique in its nature and scope. Modern web technologies proved to be an excellent platform for heritage data visualization"
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -35,7 +35,7 @@ selected = false
 #   projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://originsofdoha.files.wordpress.com/2018/12/CAA2016fourth-proof_253_260_Michalski.pdf"
 
 
 # Custom links (optional).

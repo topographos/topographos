@@ -5,10 +5,10 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Archaeology"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "PhD researcher - a spatio-temporal analysis of settlements patterns in the Northern Fertile Crescent from the Iron Age to the Late Islamic period."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

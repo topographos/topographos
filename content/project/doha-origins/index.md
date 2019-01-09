@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Archaeology"]
+tags = ["Archaeology", "Spatial Analysis"]
 
 # Project summary to display on homepage.
 summary = "Team member - Surveyor and GIS specialist, responsible for surveying and GIS for The Origins of Doha Project."

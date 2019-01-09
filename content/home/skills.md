@@ -7,7 +7,7 @@ date = 2017-09-20T00:00:00
 active = true
 
 title = "Expertise"
-subtitle = ""
+subtitle = "My favourite tools of the trade are Free and Open Source"
 
 # Order that this section will appear in.
 weight = 7
@@ -25,13 +25,13 @@ weight = 7
   icon = "fas fa-database"
   icon_pack = "fas" 
   name = "Spatial Data Management"
-  description = ""
+  description = "<i class='fab fa-github fa-lg'></i>"
   
 [[feature]]
   icon = "fas fa-cogs"
   icon_pack = "fas"
   name = "Spatial Data Analysis"
-  description = ""  
+  description = "<i class='fab fa-python fa-lg'></i> <i class='fab fa-r-project fa-lg'></i>"
   
 [[feature]]
   icon = "fas fa-map-marked"

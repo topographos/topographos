@@ -8,7 +8,7 @@ draft = false
 tags = ["Web GIS", "historical-gis"]
 
 # Project summary to display on homepage.
-summary = "Creator of DOHA - web mapping aplication"
+summary = "Developer of DOHA - an interactive web resource which presents some of the Origins of Doha Project research, using historic maps, photographs, historic building recording and the excavation of archaeological deposits."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
