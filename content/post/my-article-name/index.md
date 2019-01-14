@@ -1,5 +1,5 @@
 +++
-title = "My Article Name"
+title = "Bridging R and QGIS"
 date = 2018-11-30T21:38:26Z
 draft = false
 
@@ -29,3 +29,17 @@ categories = []
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+```{r echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+library(RQGIS)
+library(lidR)
+library(rgdal)
+library(rgl)
+library(raster)
+library(rasterVis)
+library(rayshader)
+library(tidyverse)
+library(png)
+
+```
