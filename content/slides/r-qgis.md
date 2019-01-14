@@ -57,4 +57,4 @@ Jannes Muenchow, Patrick Schratz and Alexander Brenning , The R Journal (2017) 9
 
 # Questions?
 
-[Demo](https://discourse.gohugo.io)  
+[Demo](https://discourse.gohugo.io) 

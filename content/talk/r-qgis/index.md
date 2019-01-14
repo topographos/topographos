@@ -38,7 +38,7 @@ projects = []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
+#   Otherwise, set `slides = "r-qgis.md"`.
 slides = ""
 
 # Tags (optional).
