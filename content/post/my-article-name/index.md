@@ -43,3 +43,18 @@ library(tidyverse)
 library(png)
 
 ```
+
+## LiDAR
+
+Load data from folder and create a catalog
+
+```{r echo=TRUE, message=FALSE, warning=FALSE, paged.print=FALSE}
+
+#create catalog
+ctg = catalog("data/input")
+#assign projection
+ctg@crs = sp::CRS('+init=EPSG:27700')
+#plot catalogue
+plot(ctg)
+
+```

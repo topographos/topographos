@@ -62,7 +62,7 @@ enableGitInfo = false
   avatar = "avatar.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "michalski82gmail.com"
+  email = "michal.m.michalski@durham.ac.uk"
   #address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = " "

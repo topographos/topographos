@@ -17,4 +17,7 @@ hugo new  --kind project project/my-project-name
 #hugo new --kind ../publication publication/XYZ/index.md
 #hugo new --kind ../publication publication/<mypublication>
  
-devtools::install_github("rstudio/radix")
+blogdown::new_post("R and QGIS in action")
+?blogdown::new_post()
+
+blogdown::new_post(rmd = TRUE)
