@@ -10,7 +10,7 @@ theme = "black"
 
 Michal Michalski  
 
-_8th Scottish Qgis UK User Group Meeting_
+_8th Scottish QGIS UK User Group Meeting_
 
 ---
 
