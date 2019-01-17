@@ -19,7 +19,7 @@ summary = "PhD researcher - a spatio-temporal analysis of settlements patterns i
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://dispersal.netlify.com/"
+external_link = "https://dispersal.rbind.io/"
 
 # Links (optional).
 url_pdf = ""
