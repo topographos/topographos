@@ -1,3 +1,4 @@
+install.packages("blogdown")
 blogdown::serve_site()
 
 #create posts

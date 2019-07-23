@@ -89,11 +89,11 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
-  zoom = 15
+  #map = 0
+  #map_api_key = ""
+  #latitude = "37.4275"
+  #longitude = "-122.1697"
+  #zoom = 15
 
   # SITE SETUP
 
@@ -216,7 +216,7 @@ enableGitInfo = false
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    post_format = 0
+    #post_format = 0
 
     # Publication list format.
     #   0 = Simple
@@ -304,21 +304,16 @@ enableGitInfo = false
    name = "Talks"
    url = "#talks"
    weight = 4
-   
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 5
 
 [[menu.main]]
   name = "Tutorials"
   url = "/tutorial/"
-  weight = 6
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
