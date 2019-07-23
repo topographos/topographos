@@ -1,4 +1,4 @@
-### In this tutorial, I'll share my top 10 tips for getting started with Academic:
+### List of r notebooks used for experiments
 
 ## Tip 1
 

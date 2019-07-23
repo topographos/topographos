@@ -306,7 +306,7 @@ enableGitInfo = false
    weight = 4
 
 [[menu.main]]
-  name = "Tutorials"
+  name = "Scratchbook"
   url = "/tutorial/"
   weight = 5
 
