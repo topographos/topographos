@@ -1,0 +1,8 @@
+build-last-errors="[]"
+build-last-errors-base-dir=""
+build-last-outputs="[{\"type\":0,\"output\":\"==> rmarkdown::render_site(encoding = 'UTF-8')\\n\\n\"},{\"type\":2,\"output\":\"--------------------------------------------------------------------------------\\nYou are recommended to ignore more items in the 'ignoreFiles' field in config.toml: \\\"\\\\\\\\.Rmd$\\\", \\\"\\\\\\\\.Rmarkdown$\\\", \\\"_cache$\\\", \\\"\\\\\\\\.knit\\\\\\\\.md$\\\", \\\"\\\\\\\\.utf8\\\\\\\\.md$\\\"\\n--------------------------------------------------------------------------------\\nError: hugo not found. You can install it via blogdown::install_hugo()\\nExecution halted\\n\"},{\"type\":2,\"output\":\"\\nExited with status 1.\\n\\n\"}]"
+compile_pdf_state="{\"tab_visible\":false,\"running\":false,\"target_file\":\"\",\"output\":\"\",\"errors\":[]}"
+files.monitored-path=""
+find-in-files-state="{\"handle\":\"\",\"input\":\"\",\"path\":\"\",\"regex\":false,\"ignoreCase\":false,\"results\":{\"file\":[],\"line\":[],\"lineValue\":[],\"matchOn\":[],\"matchOff\":[],\"replaceMatchOn\":[],\"replaceMatchOff\":[]},\"running\":false,\"replace\":false,\"preview\":false,\"gitFlag\":false,\"replacePattern\":\"\"}"
+imageDirtyState="1"
+saveActionState="0"
