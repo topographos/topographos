@@ -1,3 +1,4 @@
 install.packages("gitcreds")
 library(gitcreds)
 gitcreds_set()
+postcards::create_postcard(template = "trestles")
